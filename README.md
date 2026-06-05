@@ -13,3 +13,12 @@ https://raw.githubusercontent.com/andrewldalton/PocketGM-BAMFDL-Roster/main/Pre%
 ```
 
 Regenerated via `bamfdl-calc/pgm-export/build_adv_roster.py` + `build_rookie_class.py`.
+
+## BAMFDL Owners (AFC) roster
+The 12 BAMFDL managers as the 12 AFC East/North/West teams, each stocked with their live Sleeper roster (ADV-rated) plus kept defense/OL so every team is fieldable. Import URL:
+
+```
+https://raw.githubusercontent.com/andrewldalton/PocketGM-BAMFDL-Roster/main/BAMFDL%20Owners%20AFC%20v1
+```
+
+Owner → team: Andrew→BUF · Nick→MIA · Matt→NE · Bsco→NYJ · Norman→BAL · Jalen→CIN · Jordan→CLE · Jesse→PIT · Ehran→DEN · Austin→KC · Alex→LV · Westy→LAC
