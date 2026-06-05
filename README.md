@@ -21,4 +21,4 @@ The 12 BAMFDL managers as the 12 AFC East/North/West teams, each stocked with th
 https://raw.githubusercontent.com/andrewldalton/PocketGM-BAMFDL-Roster/main/BAMFDL%20Owners%20AFC%20v1
 ```
 
-Owner → team: Andrew→BUF · Nick→MIA · Matt→NE · Bsco→NYJ · Norman→BAL · Jalen→CIN · Jordan→CLE · Jesse→PIT · Ehran→DEN · Austin→KC · Alex→LV · Westy→LAC
+Owner → team: Andrew→KC · Austin→BUF · Nick→MIA · Matt→NE · Bsco→NYJ · Norman→BAL · Jalen→CIN · Jordan→CLE · Jesse→PIT · Ehran→DEN · Alex→LV · Westy→LAC
