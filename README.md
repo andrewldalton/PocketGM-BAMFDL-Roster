@@ -22,3 +22,10 @@ https://raw.githubusercontent.com/andrewldalton/PocketGM-BAMFDL-Roster/main/BAMF
 ```
 
 Owner → team: Andrew→KC · Austin→BUF · Nick→MIA · Matt→NE · Bsco→NYJ · Norman→BAL · Jalen→CIN · Jordan→CLE · Jesse→PIT · Ehran→DEN · Alex→LV · Westy→LAC
+
+## Chiefs All-Time (proof of concept)
+Kansas City's all-time 53 (Pro Football HOFers + Hall of Honor + modern stars), with a salary-cap solver: payroll distributed by a convex rating curve, capped at the league max, floored for depth, total ≈ $190M (cap-legal). Rest of the league is the real baseline. Import URL:
+
+```
+https://raw.githubusercontent.com/andrewldalton/PocketGM-BAMFDL-Roster/main/Chiefs%20All-Time
+```
